@@ -1,0 +1,158 @@
+=================================
+       HISTÓRICO DE LOCAÇÃO
+=================================
+
+Cliente: Yuri Barbosa
+CPF: 12345678900
+Veículo: Fiat Mobi
+Categoria: Popular
+Dias: 5
+Valor total: R$ 600,00
+Status: Finalizada
+
+=================================
+
+=================================
+       HISTÓRICO DE LOCAÇÃO
+=================================
+
+Cliente: Yuri Barbosa
+CPF: 12345678900
+Veículo: Fiat Mobi
+Categoria: Popular
+Dias: 5
+Valor total: R$ 600,00
+Status: Finalizada
+
+=================================
+
+=================================
+       HISTÓRICO DE LOCAÇÃO
+=================================
+
+Cliente: Yuri Barbosa
+CPF: 12345678900
+Veículo: Fiat Mobi
+Categoria: Popular
+Dias: 5
+Valor total: R$ 750,00
+Status: Finalizada
+
+=================================
+
+=================================
+       HISTÓRICO DE LOCAÇÃO
+=================================
+
+Cliente: Yuri Barbosa
+CPF: 12345678900
+Veículo: Fiat Mobi
+Categoria: Popular
+Dias: 5
+Valor total: R$ 750,00
+Status: Finalizada
+
+=================================
+
+=================================
+       HISTÓRICO DE LOCAÇÃO
+=================================
+
+Cliente: Yuri Barbosa
+CPF: 12345678900
+Veículo: Fiat Mobi
+Categoria: Popular
+Dias: 5
+Valor total: R$ 750,00
+Status: Finalizada
+
+=================================
+
+=================================
+       HISTÓRICO DE LOCAÇÃO
+=================================
+
+Cliente: Yuri Barbosa
+CPF: 12345678900
+Veículo: Fiat Mobi
+Categoria: Popular
+Dias: 5
+Valor total: R$ 750,00
+Status: Finalizada
+
+=================================
+
+=================================
+       HISTÓRICO DE LOCAÇÃO
+=================================
+
+Cliente: Yuri Barbosa
+CPF: 12345678900
+Veículo: Fiat Mobi
+Categoria: Popular
+Dias: 5
+Valor total: R$ 750,00
+Status: Finalizada
+
+=================================
+
+=================================
+       HISTÓRICO DE LOCAÇÃO
+=================================
+
+Cliente: Yuri Barbosa
+CPF: 12345678900
+Veículo: Fiat Mobi
+Categoria: Popular
+Placa: ABC1234
+Data de retirada: 2026-10-06
+Data de devolução: 2026-10-10
+Dias: 5
+Valor da diária: R$ 100,00
+Seguro: R$ 100,00
+Manutenção: R$ 150,00
+Valor total: R$ 750,00
+Status: Finalizada
+
+=================================
+
+=================================
+       HISTÓRICO DE LOCAÇÃO
+=================================
+
+Cliente: yuri
+CPF: 12345678910
+Veículo: fiat mobi
+Categoria: Popular
+Placa: ABC1234
+Data de retirada: 2026-10-06
+Data de devolução: 2026-10-10
+Dias: 5
+Valor da diária: R$ 100,00
+Seguro: R$ 100,00
+Manutenção: R$ 150,00
+Valor total: R$ 750,00
+Status: Finalizada
+
+=================================
+
+=================================
+       HISTÓRICO DE LOCAÇÃO
+=================================
+
+Cliente: YURI
+CPF: 1234567890
+Veículo: CARRO
+Categoria: Popular
+Placa: TGK1254
+Data de retirada: 2026-10-06
+Data de devolução: 2026-10-10
+Dias: 5
+Valor da diária: R$ 100,00
+Seguro: R$ 100,00
+Manutenção: R$ 150,00
+Valor total: R$ 750,00
+Status: Finalizada
+
+=================================
+
