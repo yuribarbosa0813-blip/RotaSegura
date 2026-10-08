@@ -15,8 +15,6 @@ O sistema permite cadastrar clientes e veículos, realizar locações, controlar
 * Java
 * Eclipse
 * Programação Orientada a Objetos
-* Collections
-* Arquivo de texto para persistência
 
 ## Principais conceitos utilizados
 
